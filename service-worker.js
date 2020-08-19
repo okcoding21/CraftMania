@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CraftMania/precache-manifest.ba2bfc7380a0f278865bc10dfaf39a08.js"
+  "/CraftMania/precache-manifest.d838eb86a43222861b6e74019f3c2071.js"
 );
 
 self.addEventListener('message', (event) => {
