@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.8f0102e8.chunk.css",
-    "main.js": "/static/js/main.dcdbfd1b.chunk.js",
-    "main.js.map": "/static/js/main.dcdbfd1b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c24bc20c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c24bc20c.js.map",
-    "static/css/2.1a8daee9.chunk.css": "/static/css/2.1a8daee9.chunk.css",
-    "static/js/2.164de6d1.chunk.js": "/static/js/2.164de6d1.chunk.js",
-    "static/js/2.164de6d1.chunk.js.map": "/static/js/2.164de6d1.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.04252015ef424fb274497afbe4897ee1.js": "/precache-manifest.04252015ef424fb274497afbe4897ee1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.1a8daee9.chunk.css.map": "/static/css/2.1a8daee9.chunk.css.map",
-    "static/css/main.8f0102e8.chunk.css.map": "/static/css/main.8f0102e8.chunk.css.map",
-    "static/js/2.164de6d1.chunk.js.LICENSE.txt": "/static/js/2.164de6d1.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/CraftMania/static/css/main.8f0102e8.chunk.css",
+    "main.js": "/CraftMania/static/js/main.cc978a54.chunk.js",
+    "main.js.map": "/CraftMania/static/js/main.cc978a54.chunk.js.map",
+    "runtime-main.js": "/CraftMania/static/js/runtime-main.9ff4f81f.js",
+    "runtime-main.js.map": "/CraftMania/static/js/runtime-main.9ff4f81f.js.map",
+    "static/css/2.1a8daee9.chunk.css": "/CraftMania/static/css/2.1a8daee9.chunk.css",
+    "static/js/2.164de6d1.chunk.js": "/CraftMania/static/js/2.164de6d1.chunk.js",
+    "static/js/2.164de6d1.chunk.js.map": "/CraftMania/static/js/2.164de6d1.chunk.js.map",
+    "index.html": "/CraftMania/index.html",
+    "precache-manifest.ba2bfc7380a0f278865bc10dfaf39a08.js": "/CraftMania/precache-manifest.ba2bfc7380a0f278865bc10dfaf39a08.js",
+    "service-worker.js": "/CraftMania/service-worker.js",
+    "static/css/2.1a8daee9.chunk.css.map": "/CraftMania/static/css/2.1a8daee9.chunk.css.map",
+    "static/css/main.8f0102e8.chunk.css.map": "/CraftMania/static/css/main.8f0102e8.chunk.css.map",
+    "static/js/2.164de6d1.chunk.js.LICENSE.txt": "/CraftMania/static/js/2.164de6d1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/CraftMania/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c24bc20c.js",
+    "static/js/runtime-main.9ff4f81f.js",
     "static/css/2.1a8daee9.chunk.css",
     "static/js/2.164de6d1.chunk.js",
     "static/css/main.8f0102e8.chunk.css",
-    "static/js/main.dcdbfd1b.chunk.js"
+    "static/js/main.cc978a54.chunk.js"
   ]
 }
